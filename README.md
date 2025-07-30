@@ -6,6 +6,7 @@ A chatbot that answers medical questions using RAG over WHO documents and medica
 - Fast vector search using Chroma
 - Local LLM inference using Mistral (no API costs!)
 - Streamlit frontend
+- Optional OCR for scanned reports
 
 ## Setup
 1. Place PDFs in `data/raw/`
