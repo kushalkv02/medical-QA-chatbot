@@ -1,0 +1,9 @@
+streamlit
+fitz
+PyMuPDF
+sentence-transformers
+langchain
+chromadb
+llama-cpp-python
+pytesseract
+Pillow
