@@ -28,3 +28,8 @@ A chatbot that answers medical questions using RAG over WHO documents and medica
 6. what is a vaccine
 
 Note: Currently works on limited prompts over Phi2 model. We can extend the functionalitty by using models with greater parameters like mistral.
+
+example result:
+<img width="1439" height="528" alt="Screenshot 2025-07-30 at 6 34 35 PM" src="https://github.com/user-attachments/assets/b7aca4a4-788f-4587-ba21-f3af78f3ed0e" />
+<img width="1439" height="821" alt="Screenshot 2025-07-30 at 6 36 28 PM" src="https://github.com/user-attachments/assets/158e10f4-800f-4362-9026-8ed4b78d1a59" />
+
