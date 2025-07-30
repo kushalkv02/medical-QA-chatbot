@@ -1,1 +1,1 @@
-phi2 and tinyllama models
+download your models here -> phi2(best working) tinyllama models(lacks context and gives incomplete responses)
