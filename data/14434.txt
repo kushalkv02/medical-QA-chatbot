@@ -1,0 +1,439 @@
+- In the time it takes to distribute and administer
+the drug and wait for the chemoprophylaxis to
+take effect, the infection has spread.
+- The effect of the antibiotic lasts for only a few
+days.
+- In order to avoid reinfection, the entire popula-
+tion of an area under surveillance must be treated
+at the same time and then kept isolated.
+- People who are presumably infected but have no
+symptoms are often reluctant to take the
+treatment.
+Mass chemoprophylaxis not only has failed to
+prevent the spread of cholera but has also diverted
+attention and taken up resources that could be used
+for more effective measures. In addition, in several
+of the countries it has contributed to the develop-
+ment of antibiotic resistance, thus depriving criti-
+cally ill patients of a valuable form of treatment.
+The selective treatment of family members who
+have shared food and lodging with a cholera patient
+can be useful. As a matter of fact, secondary cases
+are not very common in communities affected by
+El Tor cholera. In societies where intimate social
+relations and the exchange of food among families
+are common, it is difficult to determine who is a
+close contact. Most people who are infected with
+V. cholerae 01 El Tor have only mild cases of the
+disease, and as a result they and their close contacts
+escape detection and treatment.
+When treatment is being given for preventive
+reasons, it is necessary to recommend the drug and
+corresponding dosage. Doxycycline is the drug of
+choice, since only one dose is needed.
+Vaccination
+The vaccines currently available do not help to
+control cholera for the following reasons:
+- They are not sufficiently effective;
+-
+It is often shown that they do not have the
+required potency;
+- The immunity that they confer lasts for only 3 to
+6 months;
+- Vaccination does not reduce the rate of
+asymptomatic infection.
+Even more important, vaccination produces a
+false sense of security not only for those who are
+vaccinated but also for health authorities, and more
+effective measures may fail to be applied.
+Moreover, vaccination campaigns divert resources,
+care, and personnel from more effective activities.
+Vaccination campaigns for controlling cholera
+not only waste resources but can also introduce
+health hazards that are much more serious. When
+inoculation practices are not very safe, as is fre-
+quently the case in mass vaccination campaigns,
+they have been followed by cases of serum
+hepatitis, and in recent years the risk of HIV infec-
+tion has become a serious threat to health.
+In view of these limitations, the Twentieth-sixth
+World Health Assembly abolished the requirement
+under the International Health Regulations for a
+certificate of vaccination against cholera.
+(Source: Health Situation and Trend
+Assessment Program, PAHO.)
+Clinical Diagnosis and Treatment of Cholera Cases
+Cholera is an acute bacterial enteric disease with
+sudden onset, profuse painless watery stools,
+occasional vomiting, rapid dehydration, acidosis
+and circulatory collapse.
+Many cases of cholera are mild and cannot be
+distinguished clinically from other types of diar-
+rhea; they can only be recognized from positive
+fecal cultures. These cases are epidemiologically
+important because the bacillus continues to circu-
+late in the community.
+Serious cholera usually has an abrupt onset, with
+voluminous stool, but it can also begin slowly, with
+mild diarrhea during the first 24-36 hours. Vomit-
+ing can be copious; it occurs in most patients and
+can be present before or after the onset of diarrhea.
+The peak fecal loss usually takes place during the
+first 24 hours. The stool have a rice water ap-
+pearance, and the volume exceeds 1 liter per hour
+in adults and 8 to 10 ml/kg/hour in small children.
+After the first 24 hours the rate of elimination
+declines. Diarrhea can end spontaneously in 1 to 6
+days, and many patients improve without an-
+tibiotics if the electrolytes and water lost are ade-
+quately replaced. The total volume of feces during
+the course of the disease may be as much as 50%
+or more of bodyweight.
+The metabolic disorders associated with cholera
+are caused by the rapid loss of water and
+electrolytes. This has clinical importance because
+of hypovolemia due to the loss of isotonic fluids,
+acidosis due to rapid loss of bicarbonate, and deple-
+tion of potassium.
+Biochemical studies done before the initiation of
+treatment have revealed a high specific density of
+14
+o
+
+plasma and a drop in arterial pH and serum bicar-
+bonate. The plasma concentration of sodium is
+normal.
+Although there is depletion of potassium, the
+serum concentration is usually normal. However,
+it can also be low. If the base deficit is corrected, it
+is not necessary to replace the deficit in potassium.
+Glucose concentration is moderately elevated in
+adults, but small children may occasionally
+develop serious hypoglycemia. The vomiting and
+diarrhea that occur with cholera give an indication
+of how much isotonic fluid is lost, ranging over a
+period of 4 hours to 1 or 2 days.
+The first symptom is thirst, which begins to occur
+when water loss reaches 20-30 ml/kg. A loss of
+50-80 ml/kg causes weakness, lethargy, and signs
+of postural hypotension such as fainting or syncope
+with inability to remain standing. If the deficit goes
+beyond 80 ml/kg, the thirst becomes more intense
+and renal flow diminishes, resulting in oliguria
+followed by anuria.
+There are muscle cramps and pains in the limbs,
+as well as distal cyanosis. The voice weakens, and
+some patients develop aphonia. If fluid loss ex-
+ceeds 100-120 ml/kg, the disease is usually fatal.
+The physical findings in cholera are also related
+to the fluid deficit. A deficit of 50 ml/kg causes only
+a reduction in skin turgor and moderate
+tachycardia. Additional signs of hypovolemia will
+develop quickly if the losses exceed 80 ml/kg to
+100-120 ml/kg.
+* 
+If the heart rate reaches 100 beats per minute, the
+radial pulse weakens and becomes undetectable. At
+the same time, diastolic pressure falls, breathing
+becomes more rapid, turgor decreases, the nails
+become cyanotic, the skin of the fingers begins to
+shrivel and give the appearance of washerwoman 's
+hands, the eyes become sunken, and in very young
+children the anterior fontanelle is depressed.
+The abdomen is soft, the rectus abdominus
+muscle can be spastic and give the impression of
+abdominal defense, and intestinal sounds are
+diminished.
+Some adult patients become stuporous, although
+usually they are aware. Coma occurs in one-fourth
+of the critically dehydrated cases.
+Diagnosis is confirmed by culturing vibrio
+cholerae of the serogroup 01 from feces. The vibrio
+cholerae serogroup 01 includes two biovans
+(biotypes) choferae (classical) and El Tor, each of
+which includes organisms of Inaba and Ogawa
+serotypes. A similar enterotoxia is elaborated by
+these organisms so that the clinical pictures are
+similar. In any single epidemic, one particular type
+tends to be dormant. Presently the El Tor biotype
+is predominant. People are the only known
+reservoir.
+The mode of transmission is primarily through
+ingestion of water contaminated with feces or
+vomitus of patients, or to a lesser extent, feces of
+carriers or ingestion of unrefrigerated food which
+has been contaminated by dirty water, feces, soiled
+hands, or perhaps flies.
+The incubation period is usually 2 to 3 days and
+the period of communicability for the duration of
+the stool-positive stage, usually only a few days
+after recovery.
+Susceptibility and resistance are variable; gastric
+achlorhydria increases risk of disease and breastfed
+infants are protected. Clinical cholera usually is
+confined to the lowest socio-economic groups.
+Even in severe epidemics, attack rates rarely ex-
+ceed 2%. Infection results in a rise in agglutinating,
+vitriocidal, and antitoxic antibodies, and increased
+resistance to reinfection which lasts longer against
+the homologous serotype. In endemic areas, most
+persons acquire antibodies by early adulthood.
+Treatment
+Without treatment, the case-fatality rate due to
+serious cholera can reach 50%. With adequate
+treatment, mortality goes down to 1%.
+Management of the disease focuses on replacing
+the fluids and electrolytes lost in feces and
+preventing serious dehydration.
+Physiological Basisfor Oral Rehydration
+Therapy (ORT)
+Studies of intestinal absorption of fluid have
+clearly shown that during secretory diarrhea in-
+duced by enterotoxins some of the mechanisms of
+intestinal absorption are inhibited. However, the
+mechanism for absorbing glucose and other
+mediate carriers for the absorption of sodium
+remains intact, even in patients with serious
+cholera. Citrate (or bicarbonate) and potassium are
+absorbed separately from glucose. Moreover, the
+absorption of citrate (or bicarbonate) appears to
+increase the absorption of sodium and chlorine.
+Numerous clinical studies have shown conclusive-
+ly that the loss of fluids and electrolytes in cases of
+acute diarrhea and cholera can be adequately
+replaced by mouth using glucose-electrolyte solu-
+tions when these ingredients are in optimum con-
+centration. For the adequate absorption of orally
+administered electrolytes, the following conditions
+are necessary:
+- The concentration of glucose should be 20-30 g
+(111-165 mmol/l) in order to achieve maximum
+absorption of sodium and water. A higher con-
+centration can cause osmotic diarrhea because
+the unabsorbed glucose is fermented by the in-
+testinal bacteria, resulting in osmotically active
+oroducts that attract water to the intestine. A
+lower glucose concentration, on the other hand,
+can cause insufficient absorption of sodium and
+water.
+15
+
+- The nearer the concentration of sodium in the
+oral solution to the concentration of sodium in
+plasma, the faster and higher will be its net
+absorption.
+- The ratio of sodium concentration to glucose
+concentration should be within an approximate
+range of 1:1 to 1:1.4.
+- Potassium losses due to acute diarrhea are higher
+in children under 1 year of age and can be espe-
+cially dangerous in undernourished children. A
+potassium concentration of 20 mmol/l is well
+tolerated and is sufficient to replacing the losses.
+-
+A citrate concentration of 10 mmol/l, or a bicar-
+bonate concentration of 30 mmol/l, is optimum
+for correcting the base deficit in cases of
+acidosis. Trisodium citrate, dihydrate, is used as
+the base instead of sodium bicarbonate, since the
+use of citrate salt yields a pharmaceutical product
+with a longer shelf life and has a good biological
+effect.
+Oral Rehydration Therapy
+Treatment should be started at once, without
+waiting for laboratory confirmation. The patients
+should immediately be given large amounts of
+liquid by mouth. The formula for oral rehydration
+salts (ORS) that has been successfully used for oral
+administration and has been recommended by the
+World Health Organization (WHO) is as follows
+(per liter of water):
+Sodium chloride
+Trisodium citrate
+(dihydrate)
+Potassium chloride
+Glucose (anhydride)
+Sodium
+Chlorine
+Potassium
+Citrate
+Glucose
+grams/l
+3.5
+2.9
+1.5
+20.0
+mmol/l
+90
+80
+20
+10
+111
+*Trisodium citrate can be substituted for sodium
+bicarbonate 2.5 g/l (which yields 30 mmol/l of
+bicarbonate).
+Also, ORS packets already prepared for mixing
+can be added to 5 or 10 liters of water. These are
+prepared in hospital pharmacies where large
+amounts are consumed on a daily basis.
+In dehydrated children there is a cumulative
+deficit of sodium. From studies of fluid and
+electrolyte balance carried out in cases of serious
+dehydration it has been estimated that this deficit is
+approximately 8-12 mmol of sodium/100 ml of
+water. Use of the ORS solution with 90 mmol of
+sodium/liter of water is adequate for rehydration in
+these cases. During the maintenance phase, when
+the ORS solution is used to replace steady losses,
+the risk of hypernatremia is not a problem because
+breast milk or cow's milk, water, or some other
+liquid is also being provided at the same time,
+depending on the age of the child, especially in
+children under 1 year of age. The ORS solution has
+been used in this way to treat millions of cases of
+diarrhea of various etiologies and in persons of all
+ages, and it has been shown to be safe and effective.
+When the ORS are given orally, it is not necessary
+to calculate the amount of liquid to be administered
+because the patient's thirst regulates the quantity
+that should be taken.
+.
+Rapid Endovenous Therapy
+Patients with serious dehydration, hypovolemic
+shock (unconscious or in coma, weak or impercep-
+tible pulse, capillary perfusion longer than 10
+seconds), uncontrollable vomiting, fecal output in
+excess of intake capacity, inability to drink, or other
+serious complications usually require rapid in-
+travenous therapy at first in order to achieve
+rehydration.
+Children who are critically dehydrated and in
+shock should receive 30 ml/kg of Ringer's solution
+or a polyelectrolyte solution infused intravenously
+over a period of 1 hour, followed by 40 ml/kg for
+the next 2 hours. If the child has improved after this
+3-hour treatment, then the ORS solution should be
+offered, and if the child tolerates it, he or she should
+be given 40 ml/kg for the next 3 hours and the
+intravenous therapy should be suspended.
+Older children and adults should receive 110
+ml/kg of Ringer's solution or a polyelectrolyte
+solution intravenously over a period of 3 to 4 hours,
+as rapidly as needed, and then switched to ORS if
+they have improved.
+If there is no Ringer's solution available, it is
+possible to use a polyelectrolyte solution or salt
+composed of 3.5 g sodium chloride, 1.5 g potas-
+sium chloride, 4,082 g monosodium acetate
+(trihydrate), and 20.0 g dextrose. Simple glucose in
+water is ineffective and should not be used.
+Progress with the rehydration therapy should be
+evaluated after 1 hour and then every 1 to 2 hours.
+It is important to pay attention to the number and
+volume of evacuations, the amount of vomiting, the
+presence of any signs of dehydration and any
+change in these, and whether or not adequate
+amounts of the rehydration solution (intravenous at
+first and oral thereafter) have been given.
+The administration of ORS is begun as soon as is
+possible, especially when normal saline is used
+16
+
+intravenously to give the patient bicarbonate and
+potassium.
+If the signs of dehydration get worse or remain
+unchanged, it is may be necessary to speed up
+_ 
+administration of the solution being used.
+The ORS can be administered via nasogastric
+tube to a patient who is not in shock but who cannot
+drink (due to fatigue, sleepiness, or other reasons)
+at a rate of 20 ml/kg per hour if there are personnel
+available who have been trained to do this. In
+children who are in shock, this procedure should be
+used only when it is not possible to give the solution
+intravenously.
+Antibiotics
+Antibiotics are very important in the treatment of
+cholera because they reduce the duration of diar-
+rhea and the shedding of vibrios within 2 or 3 days.
+Oral tetracycline is the antibiotic of choice: 500
+mg should be given 4 times/day for 3 days.
+Doxycycline (300 mg), a form of long-acting
+tetracycline that is given only once, is preferred
+when it is available. Other alternatives, when the
+strains are resistant, are furazolidone and
+trimetroprim-sulfamethoxazole.
+No other antidiarrheal, antiemetic, antispas-
+modic, cardiotonic, or corticosteroid products
+should be used.
+Maintenance Therapy
+After the initial fluid and electrolyte imbalance
+has been corrected and the signs of dehydration
+have disappeared, it is important to replace the
+abnormal losses due to diarrhea or vomiting and, in
+addition, to meet the normal daily requirement for
+liquids until the diarrhea ends. During maintenance
+therapy the ORS should be used after every evacua-
+tion (1/2 to 1 cup depending on the patient's age).
+Maintenance therapy also includes continued feed-
+ing throughout the course of the disease.
+References
+American Public Health Association. Control of Com-
+municable Diseases in Man. Abram S. Benenson (editor),
+Washington, D.C., 15th edition, 1990.
+(Source: Diarrheal Disease Control Program, PAHO.)
+Laboratory Diagnosis of Cholera
+A request for laboratory diagnosis is most impor-
+tant upon an initial suspicion of cholera based on
+the recognition of the typical clinical features and
+the appropriate epidemiologic setting. Because
+most bacterial diarrheas are self-limited, stool cul-
+tures are generally limited to cases with severe
+symptoms requiring hospitalization, persistent or
+recurrent and dysentery-like clinical presentation.
+The clinical or public health laboratory is usually
+organized to process the specimens following an
+algorithm designed to identify a list of enteric
+pathogens prevalent in the Region. Most
+laboratories may not inoculate media suitable for
+the isolation of vibrios unless specifically requested
+to do so. Vibrio cholerae is not the only organism
+to cause watery diarrhea or rice water stools, al-
+though it produces the most severe disease. The
+approach adopted by a particular laboratory for the
+isolation of vibrios will depend on the frequency
+anticipated, and the cost-effectiveness of incor-
+porating agar thiosulfate-citrate-bile salt-sucrose
+(TCBS) medium on a routine basis. Vibrios may be
+isolated in other plating media, but a particular
+search may need to identify V. cholerae or to screen
+for Gram negative bacilli, oxidase-positive
+colonies.
+Stool specimens should be collected early in the
+disease and preferably within the first 24 hours of
+illness, and before the patient has received any
+antimicrobial agents. Rectal swabs are probably
+highly efficient in the acute phase of illness, but less
+satisfactory for convalescent patients or transiently
+infected asymptomatic persons. Specimens should
+be inoculated onto isolation plates with minimun
+delay. The viability of vibrio species is well main-
+tained in an alkaline pH of rice water stool but is
+unpredictable in formed stools. Vibrios are very
+susceptible to desiccation; hence, specimens must
+not be allowed to dry. When there will be a delay
+in plating a culture, the rectal swabs or fecal
+material should be placed in the semisolid transport
+medium of Cary and Blair, which maintains the
+viability of vibrio cultures for up to 4 weeks. Buf-
+fered glycerol-saline, often used in enteric
+bacteriology, is an unsatisfactory transport medium
+even for short periods. In the absence of available
+suitable transport media, strips of blotting paper
+may be soaked in liquid stool and inserted into
+airtight plastic bags to prevent drying, and the or-
+ganism will remain viable for up to 5 weeks.
+Specimens in transport medium may be shipped to
+the laboratory without refrigeration.
+17
